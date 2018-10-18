@@ -3,6 +3,7 @@
 *.dcm
 *.H5
 *.h5
+*.pk
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
